@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:Core SDK
+com.cheq.sst.android.core
+com.cheq.sst.android.core.models
+com.cheq.sst.android.core.monitoring
+module:Advertising Model
+com.cheq.sst.android.models.advertising
